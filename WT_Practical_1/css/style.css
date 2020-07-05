@@ -1,0 +1,49 @@
+body{
+background:yellow;
+}
+
+.header header{
+font-size:100px;
+text-align:center;
+}
+
+.header img{
+height:100px;
+width:100px;
+}
+
+.container img{
+height:600px;
+width:700px;
+padding:10px;
+}
+
+nav {
+background: yellow;
+overflow: hidden;
+}
+
+h1{
+padding:0 20px;
+font-size:50px;}
+
+a{
+font-size:30px;
+padding:10px;
+}
+
+.footer footer{
+font-size:20px;
+text-align:center;
+}
+
+td{
+padding: 0 20px 10px;
+font-size:25px;
+}
+
+.main iframe{
+height:700px;
+width:700px;
+padding:10px;
+}
